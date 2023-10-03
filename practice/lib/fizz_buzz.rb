@@ -1,5 +1,3 @@
-n = 0
-
 def fizz_buzz(n)
   if n % 15 == 0
     'FizzBuzz'
@@ -11,5 +9,3 @@ def fizz_buzz(n)
     n.to_s
   end
 end
-
-while
